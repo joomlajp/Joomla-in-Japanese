@@ -16,6 +16,6 @@
     <file type="language" client="administrator" id="ja-JP">admin_ja-JP.zip</file>
 </files>
 <updateservers>
-    <server type="collection" priority="1" name="Accredited Joomla! Translations">http://update.joomla.org/language/translationlist.xml</server>
+    <server type="collection" priority="1" name="Accredited Joomla! Translations">http://update.joomla.org/language/translationlist_3.xml</server>
 </updateservers>
 </extension>
