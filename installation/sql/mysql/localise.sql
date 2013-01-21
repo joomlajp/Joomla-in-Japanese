@@ -18,4 +18,4 @@ REPLACE INTO `#__extensions` (`extension_id`, `name`, `type`, `element`, `folder
 
 REPLACE INTO `#__languages` (`lang_id`,`lang_code`,`title`,`title_native`,`sef`,`image`,`description`,`metakey`,`metadesc`, `published`, `ordering`) VALUES
 (1, 'en-GB', 'English (UK)', 'English (UK)', 'en', 'en', '', '', '', 1, 2),
-(2, 'ja-JP', '日本語 (Japan)', '日本語 (JP)', 'ja', 'ja', '', '', '', 1, 1);
+(2, 'ja-JP', 'Japanese (Japan)', '日本語 (JP)', 'ja', 'ja', '', '', '', 1, 1);
