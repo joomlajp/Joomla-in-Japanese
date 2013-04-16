@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<metafile version="3.0" client="administrator">
+<metafile version="3.1" client="administrator">
 	<tag>ja-JP</tag>
 	<name>日本語 (ja-JP)</name>
 	<description>Joomla! 管理画面用日本語ファイルです。</description>
-	<version>3.0.3.1</version>
-	<creationDate>2013-02-04</creationDate>
+	<version>3.1.0.1</version>
+	<creationDate>2013-04-15</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>www.joomla.jp</authorUrl>
