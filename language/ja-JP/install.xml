@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="3.0" client="site" type="language" method="upgrade">
+<extension version="3.1" client="site" type="language" method="upgrade">
 	<name>日本語 (ja-JP)</name>
 	<tag>ja-JP</tag>
-	<version>3.0.3.1</version>
-	<creationDate>2013-02-04</creationDate>
+	<version>3.1.0.1</version>
+	<creationDate>2013-04-15</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>www.joomla.jp</authorUrl>
@@ -19,6 +19,7 @@
 		<filename>ja-JP.com_messages.ini</filename>
 		<filename>ja-JP.com_newsfeeds.ini</filename>
 		<filename>ja-JP.com_search.ini</filename>
+		<filename>ja-JP.com_tags.ini</filename>
 		<filename>ja-JP.com_users.ini</filename>
 		<filename>ja-JP.com_weblinks.ini</filename>
 		<filename>ja-JP.com_wrapper.ini</filename>
@@ -71,6 +72,10 @@
 		<filename>ja-JP.mod_stats.sys.ini</filename>
 		<filename>ja-JP.mod_syndicate.ini</filename>
 		<filename>ja-JP.mod_syndicate.sys.ini</filename>
+		<filename>ja-JP.mod_tags_popular.ini</filename>
+		<filename>ja-JP.mod_tags_popular.sys.ini</filename>
+		<filename>ja-JP.mod_tags_similar.ini</filename>
+		<filename>ja-JP.mod_tags_similar.sys.ini</filename>
 		<filename>ja-JP.mod_users_latest.ini</filename>
 		<filename>ja-JP.mod_users_latest.sys.ini</filename>
 		<filename>ja-JP.mod_weblinks.ini</filename>

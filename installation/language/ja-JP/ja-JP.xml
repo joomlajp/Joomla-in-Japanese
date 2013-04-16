@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metafile
-	version="3.0"
-	client="installation">
+	version="3.1" client="installation">
 	<name>Japanese 日本語 (Japan)</name>
-	<version>3.0.3.1</version>
-	<creationDate>2013-02-04</creationDate>
+	<version>3.1.0.1</version>
+	<creationDate>2013-04-15</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>admin@joomla.org</authorEmail>
 	<authorUrl>www.joomla.org</authorUrl>
