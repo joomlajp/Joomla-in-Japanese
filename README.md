@@ -3,7 +3,7 @@ Joomla-in-Japanese
 
 (Joomla! じゃぱんより抜粋)
 
-翻訳ポリシーについて教えてください。
+翻訳ポリシーについて
 --------------------------------------
 
   http://code.google.com/p/joomlajp/wiki/Translation_Policy  
@@ -15,7 +15,7 @@ Joomla-in-Japanese
 
   参加資格は特に定めていません。いつでも必要な時に改善をご提案ください。詳細は下記をご覧ください。  
 
-翻訳活動への参加方法を教えてください。
+翻訳活動への参加方法
 --------------------------------------
 
   http://code.google.com/p/joomlajp/wiki/Translation_Policy     
