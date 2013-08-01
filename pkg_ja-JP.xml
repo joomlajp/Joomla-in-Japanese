@@ -2,15 +2,15 @@
 <extension type="package" version="3.1">
 <name>日本語ランゲージパック</name>
 <packagename>ja-JP</packagename>
-<version>3.1.4.1</version>
-<creationDate>2013-07-24</creationDate>
+<version>3.1.5.1</version>
+<creationDate>2013-08-01</creationDate>
 <author>JOOMLA.JP</author>
 <authorEmail>project@joomla.jp</authorEmail>
 <authorUrl>www.joomla.jp</authorUrl>
 <url></url>
 <packager>Joomla!じゃぱん</packager>
 <packagerurl>www.joomla.jp</packagerurl>
-<description>Joomla! 3.1 用の日本語ランゲージパック Ver.3.1.4.1です。</description>
+<description>Joomla! 3.1 用の日本語ランゲージパック Ver.3.1.5.1です。</description>
 <files>
 	<file type="language" client="site" id="ja-JP">site_ja-JP.zip</file>
     <file type="language" client="administrator" id="ja-JP">admin_ja-JP.zip</file>
