@@ -16,5 +16,6 @@
 		<rtl>0</rtl>
 		<locale>ja-JP.utf8, ja-JP.UTF-8, ja_JP, jpn, ja, Japanese_Japan.UTF8, japanese, jp, JP, JA</locale>
 		<firstDay>1</firstDay>
+		<weekEnd>0,6</weekEnd>
 	</metadata>
 </metafile>
