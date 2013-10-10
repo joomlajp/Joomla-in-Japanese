@@ -13,6 +13,8 @@
 	<files>
 		<filename>ja-JP.com_admin.ini</filename>
 		<filename>ja-JP.com_admin.sys.ini</filename>
+		<filename>ja-JP.com_ajax.ini</filename>
+		<filename>ja-JP.com_ajax.sys.ini</filename>
 		<filename>ja-JP.com_banners.ini</filename>
 		<filename>ja-JP.com_banners.sys.ini</filename>
 		<filename>ja-JP.com_cache.ini</filename>
@@ -27,6 +29,8 @@
 		<filename>ja-JP.com_contact.sys.ini</filename>
 		<filename>ja-JP.com_content.ini</filename>
 		<filename>ja-JP.com_content.sys.ini</filename>
+		<filename>ja-JP.com_contenthistory.ini</filename>
+		<filename>ja-JP.com_contenthistory.sys.ini</filename>
 		<filename>ja-JP.com_cpanel.ini</filename>
 		<filename>ja-JP.com_cpanel.sys.ini</filename>
 		<filename>ja-JP.com_finder.ini</filename>
@@ -52,6 +56,8 @@
 		<filename>ja-JP.com_newsfeeds.sys.ini</filename>
 		<filename>ja-JP.com_plugins.ini</filename>
 		<filename>ja-JP.com_plugins.sys.ini</filename>
+		<filename>ja-JP.com_postinstall.ini</filename>
+		<filename>ja-JP.com_postinstall.sys.ini</filename>
 		<filename>ja-JP.com_redirect.ini</filename>
 		<filename>ja-JP.com_redirect.sys.ini</filename>
 		<filename>ja-JP.com_search.ini</filename>
@@ -99,6 +105,8 @@
 		<filename>ja-JP.mod_toolbar.sys.ini</filename>
 		<filename>ja-JP.mod_version.ini</filename>
 		<filename>ja-JP.mod_version.sys.ini</filename>
+		<filename>ja-JP.plg_authentication_cookie.ini</filename>
+		<filename>ja-JP.plg_authentication_cookie.sys.ini</filename>
 		<filename>ja-JP.plg_authentication_gmail.ini</filename>
 		<filename>ja-JP.plg_authentication_gmail.sys.ini</filename>
 		<filename>ja-JP.plg_authentication_joomla.ini</filename>
@@ -185,6 +193,8 @@
 		<filename>ja-JP.plg_system_remember.sys.ini</filename>
 		<filename>ja-JP.plg_system_sef.ini</filename>
 		<filename>ja-JP.plg_system_sef.sys.ini</filename>
+		<filename>ja-JP.plg_twofactorauth_totp.ini</filename>
+		<filename>ja-JP.plg_twofactorauth_totp.sys.ini</filename>
 		<filename>ja-JP.plg_user_contactcreator.ini</filename>
 		<filename>ja-JP.plg_user_contactcreator.sys.ini</filename>
 		<filename>ja-JP.plg_user_joomla.ini</filename>
