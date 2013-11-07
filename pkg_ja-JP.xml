@@ -10,7 +10,7 @@
 <url></url>
 <packager>Joomla!じゃぱん</packager>
 <packagerurl>www.joomla.jp</packagerurl>
-<description>Joomla! 3.1 用の日本語ランゲージパック Ver.3.2.0.0です。</description>
+<description>Joomla! 3.x 用の日本語ランゲージパック Ver.3.2.0.0です。</description>
 <files>
 	<file type="language" client="site" id="ja-JP">site_ja-JP.zip</file>
     <file type="language" client="administrator" id="ja-JP">admin_ja-JP.zip</file>
