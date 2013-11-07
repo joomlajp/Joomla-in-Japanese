@@ -161,7 +161,7 @@ INSERT IGNORE INTO `#__assets` (`id`, `parent_id`, `lft`, `rgt`, `level`, `name`
 (151, 44, 249, 250, 4, 'com_content.article.53', 'Joomla!を使って', '{"core.delete":[],"core.edit":[],"core.edit.state":[]}'),
 (152, 46, 123, 124, 6, 'com_content.article.54', 'ウェブリンク', '{"core.delete":[],"core.edit":[],"core.edit.state":[]}'),
 (153, 95, 168, 169, 7, 'com_content.article.55', 'ウェブリンクモジュール', '{"core.delete":[],"core.edit":[],"core.edit.state":[]}'),
-(154, 94, 152, 153, 7, 'com_content.article.56', 'オンラインユーザ表示, '{"core.delete":[],"core.edit":[],"core.edit.state":[]}'),
+(154, 94, 152, 153, 7, 'com_content.article.56', 'オンラインユーザ表示', '{"core.delete":[],"core.edit":[],"core.edit.state":[]}'),
 (155, 108, 267, 268, 6, 'com_content.article.57', 'Wobbegone', '{"core.delete":[],"core.edit":[],"core.edit.state":[]}'),
 (156, 55, 288, 289, 5, 'com_content.article.58', 'すばらしいスイカ', '{"core.delete":[],"core.edit":[],"core.edit.state":[]}'),
 (157, 96, 180, 181, 7, 'com_content.article.59', 'ラッパーモジュール', '{"core.delete":[],"core.edit":[],"core.edit.state":[]}'),
@@ -183,9 +183,9 @@ INSERT IGNORE INTO `#__assets` (`id`, `parent_id`, `lft`, `rgt`, `level`, `name`
 (175, 1, 430, 431, 1, 'com_contenthistory', 'com_contenthistory', '{}'),
 (176, 1, 432, 433, 1, 'com_ajax', 'com_ajax', '{}'),
 (177, 1, 433, 434, 1, 'com_postinstall', 'com_postinstall', '{}'),
-(178, 93, 144, 145, 7, 'com_content.article.71', 'Similar Tags', '{"core.delete":{"6":1},"core.edit":{"6":1,"4":1},"core.edit.state":{"6":1,"5":1}}'),
+(178, 93, 144, 145, 7, 'com_content.article.71', '類似タグ', '{"core.delete":{"6":1},"core.edit":{"6":1,"4":1},"core.edit.state":{"6":1,"5":1}}'),
 (179, 1, 435, 436, 1, '#__ucm_content.3', '#__ucm_content.3', '[]'),
-(180, 93, 146, 147, 7, 'com_content.article.72', 'Popular Tags', '{"core.delete":{"6":1},"core.edit":{"6":1,"4":1},"core.edit.state":{"6":1,"5":1}}');
+(180, 93, 146, 147, 7, 'com_content.article.72', '人気のタグ', '{"core.delete":{"6":1},"core.edit":{"6":1,"4":1},"core.edit.state":{"6":1,"5":1}}');
 
 INSERT IGNORE INTO `#__banners` (`id`, `cid`, `type`, `name`, `alias`, `imptotal`, `impmade`, `clicks`, `clickurl`, `state`, `catid`, `description`, `custombannercode`, `sticky`, `ordering`, `metakey`, `params`, `own_prefix`, `metakey_prefix`, `purchase_type`, `track_clicks`, `track_impressions`, `checked_out`, `checked_out_time`, `publish_up`, `publish_down`, `reset`, `created`, `language`, `created_by`, `created_by_alias`, `modified`, `modified_by`, `version`) VALUES
 (2, 3, 0, 'ショップ1', 'ショップ1', 0, 0, 0, 'http://shop.joomla.org/amazoncom-bookstores.html', 1, 15, 'Joomla!ブックショップでJoomla!についての本をゲットしよう！', '', 0, 1, '', '{"imageurl":"images\\/banners\\/white.png","width":"","height":"","alt":"Joomla! Books"}', 0, '', -1, 0, 0, 0, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2011-01-01 00:00:01', 'ja-JP', 42, 'Joomla', '0000-00-00 00:00:00', 0, 1),
