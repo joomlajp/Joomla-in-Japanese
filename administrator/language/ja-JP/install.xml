@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="3.1" client="administrator" type="language" method="upgrade">
+<extension version="3.2" client="administrator" type="language" method="upgrade">
 	<name>日本語 (ja-JP)</name>
 	<tag>ja-JP</tag>
-	<version>3.1.5.1</version>
-	<creationDate>2013-08-01</creationDate>
+	<version>3.2.0.0</version>
+	<creationDate>2013-11-07</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>www.joomla.jp</authorUrl>
@@ -61,9 +61,9 @@
 		<filename>ja-JP.com_redirect.ini</filename>
 		<filename>ja-JP.com_redirect.sys.ini</filename>
 		<filename>ja-JP.com_search.ini</filename>
+		<filename>ja-JP.com_search.sys.ini</filename>
 		<filename>ja-JP.com_tags.ini</filename>
 		<filename>ja-JP.com_tags.sys.ini</filename>
-		<filename>ja-JP.com_search.sys.ini</filename>
 		<filename>ja-JP.com_templates.ini</filename>
 		<filename>ja-JP.com_templates.sys.ini</filename>
 		<filename>ja-JP.com_users.ini</filename>
@@ -157,6 +157,8 @@
 		<filename>ja-JP.plg_finder_tags.sys.ini</filename>
 		<filename>ja-JP.plg_finder_weblinks.ini</filename>
 		<filename>ja-JP.plg_finder_weblinks.sys.ini</filename>
+		<filename>ja-JP.plg_installer_webinstaller.ini</filename>
+		<filename>ja-JP.plg_installer_webinstaller.sys.ini</filename>
 		<filename>ja-JP.plg_quickicon_extensionupdate.ini</filename>
 		<filename>ja-JP.plg_quickicon_extensionupdate.sys.ini</filename>
 		<filename>ja-JP.plg_quickicon_joomlaupdate.ini</filename>
@@ -195,6 +197,8 @@
 		<filename>ja-JP.plg_system_sef.sys.ini</filename>
 		<filename>ja-JP.plg_twofactorauth_totp.ini</filename>
 		<filename>ja-JP.plg_twofactorauth_totp.sys.ini</filename>
+		<filename>ja-JP.plg_twofactorauth_yubikey.ini</filename>
+		<filename>ja-JP.plg_twofactorauth_yubikey.sys.ini</filename>
 		<filename>ja-JP.plg_user_contactcreator.ini</filename>
 		<filename>ja-JP.plg_user_contactcreator.sys.ini</filename>
 		<filename>ja-JP.plg_user_joomla.ini</filename>
