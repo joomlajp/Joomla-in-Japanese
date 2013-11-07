@@ -3,7 +3,7 @@
 	<tag>ja-JP</tag>
 	<name>日本語 (ja-JP)</name>
 	<description>Joomla! 管理画面用日本語ファイルです。</description>
-	<version>3.2.0.0</version>
+	<version>3.2.0.1</version>
 	<creationDate>2013-11-07</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
@@ -15,7 +15,7 @@
 		<tag>ja-JP</tag>
 		<rtl>0</rtl>
 		<locale>ja-JP.utf8, ja-JP.UTF-8, ja_JP, jpn, ja, Japanese_Japan.UTF8, japanese, jp, JP, JA</locale>
-		<firstDay>0</firstDay>
+		<firstDay>1</firstDay>
 		<weekEnd>0,6</weekEnd>
 	</metadata>
 </metafile>
