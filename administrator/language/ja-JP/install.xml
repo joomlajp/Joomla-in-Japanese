@@ -117,6 +117,8 @@
 		<filename>ja-JP.plg_captcha_recaptcha.sys.ini</filename>
 		<filename>ja-JP.plg_content_emailcloak.ini</filename>
 		<filename>ja-JP.plg_content_emailcloak.sys.ini</filename>
+		<filename>ja-JP.plg_content_contact.ini</filename>
+		<filename>ja-JP.plg_content_contact.sys.ini</filename>
 		<filename>ja-JP.plg_content_finder.ini</filename>
 		<filename>ja-JP.plg_content_finder.sys.ini</filename>
 		<filename>ja-JP.plg_content_joomla.ini</filename>
