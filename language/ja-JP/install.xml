@@ -2,7 +2,7 @@
 <extension version="3.3" client="site" type="language" method="upgrade">
 	<name>日本語 (ja-JP)</name>
 	<tag>ja-JP</tag>
-	<version>3.3.5.1</version>
+	<version>3.3.6.1</version>
 	<creationDate>2014-10-01</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
