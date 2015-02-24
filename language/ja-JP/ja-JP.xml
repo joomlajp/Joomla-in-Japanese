@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<metafile version="3.3" client="site">
+<metafile version="3.4" client="site">
 	<tag>ja-JP</tag>
 	<name>日本語 (ja-JP)</name>
 	<description>Joomla! サイト用日本語ファイルです。</description>
-	<version>3.3.6.1</version>
-	<creationDate>2014-10-01</creationDate>
+	<version>3.4.0.0</version>
+	<creationDate>2015-02-24</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>www.joomla.jp</authorUrl>
-	<copyright>Copyright (C) 2005 - 2014 Joomla!JP and Open Source Matters. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2005 - 2015 Joomla!JP and Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<metadata>
 		<name>Japanese (Japan)</name>
