@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metafile
-	version="3.3" client="installation">
+	version="3.4" client="installation" method="upgrade">
 	<name>Japanese 日本語 (Japan)</name>
 	<version>3.4.0.1</version>
 	<creationDate>2015-02-24</creationDate>
