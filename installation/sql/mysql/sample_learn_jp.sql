@@ -762,11 +762,11 @@ INSERT IGNORE INTO `#__usergroups` (`id`, `parent_id`, `lft`, `rgt`, `title`) VA
 
 INSERT IGNORE INTO `#__viewlevels` (`id`, `title`, `ordering`, `rules`) VALUES
 (1, '一般', 0, '[1]'),
-(2, '登録ユーザ', 1, '[6,2,8]'),
-(3, 'スペシャル', 2, '[6,3,8]'),
+(2, '登録ユーザ', 2, '[6,2,8]'),
+(3, 'スペシャル', 4, '[6,3,8]'),
 (4, '顧客（例）', 3, '[6,3,12]'),
-(5, 'ゲスト', 0, '[13]'),
-(6, 'スーパーユーザ', 0, '[8]');
+(5, 'ゲスト', 1, '[13]'),
+(6, 'スーパーユーザ', 5, '[8]');
 
 UPDATE `#__extensions` SET `params`='{"allowUserRegistration":"0","new_usertype":"2","guest_usergroup":"13","sendpassword":"1","useractivation":"1","mail_to_admin":"0","captcha":"","frontend_userparams":"1","site_language":"0","change_login_name":"0","reset_count":"10","reset_time":"1","mailSubjectPrefix":"","mailBodySuffix":"","save_history":"1","history_limit":5}' WHERE extension_id=25;
 
