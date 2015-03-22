@@ -213,7 +213,6 @@
 		<filename>ja-JP.tpl_hathor.sys.ini</filename>
 		<filename>ja-JP.tpl_isis.ini</filename>
 		<filename>ja-JP.tpl_isis.sys.ini</filename>
-		<filename>index.html</filename>
 		<filename file="meta">install.xml</filename>
 		<filename file="meta">ja-JP.xml</filename>
 	</files>
