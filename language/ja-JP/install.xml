@@ -2,8 +2,8 @@
 <extension version="3.4" client="site" type="language" method="upgrade">
 	<name>日本語 (ja-JP)</name>
 	<tag>ja-JP</tag>
-	<version>3.4.1.1</version>
-	<creationDate>2015-03-22</creationDate>
+	<version>3.4.2.1</version>
+	<creationDate>2015-07-01</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>www.joomla.jp</authorUrl>
@@ -28,6 +28,7 @@
 		<filename>ja-JP.files_joomla.sys.ini</filename>
 		<filename>ja-JP.finder_cli.ini</filename>
 		<filename>ja-JP.ini</filename>
+		<filename>ja-JP.lib_fof.ini</filename>
 		<filename>ja-JP.lib_fof.sys.ini</filename>
 		<filename>ja-JP.lib_idna_convert.sys.ini</filename>
 		<filename>ja-JP.lib_joomla.ini</filename>
