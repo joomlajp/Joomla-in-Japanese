@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="3.5" client="administrator" type="language" method="upgrade">
+<extension version="3.6" client="administrator" type="language" method="upgrade">
 	<name>日本語 (ja-JP)</name>
 	<tag>ja-JP</tag>
-	<version>3.5.1.1</version>
-	<creationDate>April 2016</creationDate>
+	<version>3.6.0.1</version>
+	<creationDate>July 2016</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>http://joomla.jp</authorUrl>
@@ -161,6 +161,12 @@
 		<filename>ja-JP.plg_finder_tags.sys.ini</filename>
 		<filename>ja-JP.plg_finder_weblinks.ini</filename>
 		<filename>ja-JP.plg_finder_weblinks.sys.ini</filename>
+		<filename>ja-JP.plg_installer_folderinstaller.ini</filename>
+		<filename>ja-JP.plg_installer_folderinstaller.sys.ini</filename>
+		<filename>ja-JP.plg_installer_packageinstaller.ini</filename>
+		<filename>ja-JP.plg_installer_packageinstaller.sys.ini</filename>
+		<filename>ja-JP.plg_installer_urlinstaller.ini</filename>
+		<filename>ja-JP.plg_installer_urlinstaller.sys.ini</filename>
 		<filename>ja-JP.plg_installer_webinstaller.ini</filename>
 		<filename>ja-JP.plg_installer_webinstaller.sys.ini</filename>
 		<filename>ja-JP.plg_quickicon_extensionupdate.ini</filename>

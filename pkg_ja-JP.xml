@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<extension type="package" version="3.4" method="upgrade">
+<extension type="package" version="3.6" method="upgrade">
 <name>日本語ランゲージパック</name>
 <packagename>ja-JP</packagename>
-<version>3.5.1.1</version>
-<creationDate>April 2016</creationDate>
+<version>3.6.0.1</version>
+<creationDate>July 2016</creationDate>
 <author>JOOMLA.JP</author>
 <authorEmail>project@joomla.jp</authorEmail>
 <authorUrl>www.joomla.jp</authorUrl>
