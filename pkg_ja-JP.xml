@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="package" version="3.6" method="upgrade">
-<name>日本語ランゲージパック</name>
+<name>Japanese (ja-JP) Language Pack</name>
 <packagename>ja-JP</packagename>
 <version>3.6.0.1</version>
 <creationDate>July 2016</creationDate>
