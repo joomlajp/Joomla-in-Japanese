@@ -2,7 +2,7 @@
 <extension type="package" version="3.7" method="upgrade">
 <name>Japanese (ja-JP) Language Pack</name>
 <packagename>ja-JP</packagename>
-<version>3.7.0.2</version>
+<version>3.7.1.1</version>
 <creationDate>May 2017</creationDate>
 <author>JOOMLA.JP</author>
 <authorEmail>project@joomla.jp</authorEmail>
