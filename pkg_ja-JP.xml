@@ -3,19 +3,22 @@
 <name>Japanese (ja-JP) Language Pack</name>
 <packagename>ja-JP</packagename>
 <version>3.7.3.1</version>
-<creationDate>June 2017</creationDate>
+<creationDate>July 2017</creationDate>
 <author>JOOMLA.JP</author>
 <authorEmail>project@joomla.jp</authorEmail>
 <authorUrl>http://joomla.jp</authorUrl>
+<copyright>Copyright (C) 2005 - 2017 Joomla.jp and Open Source Matters, Inc. All rights reserved.</copyright>
+<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 <url></url>
 <packager>Joomla!じゃぱん</packager>
 <packagerurl>www.joomla.jp</packagerurl>
-<description>Joomla! 3.x 用の日本語ランゲージパックです。</description>
+<description>Joomla! 3.7.3 用の日本語ランゲージパック v.3.7.3.1 です。</description>
+	<blockChildUninstall>true</blockChildUninstall>
 <files>
 	<file type="language" client="site" id="ja-JP">site_ja-JP.zip</file>
     <file type="language" client="administrator" id="ja-JP">admin_ja-JP.zip</file>
 </files>
 <updateservers>
-    <server type="collection" priority="1" name="Accredited Joomla! Translations">http://update.joomla.org/language/translationlist_3.xml</server>
+    <server type="collection" priority="1" name="Accredited Joomla! Translations">https://update.joomla.org/language/translationlist_3.xml</server>
 </updateservers>
 </extension>

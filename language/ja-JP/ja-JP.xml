@@ -2,14 +2,14 @@
 <metafile version="3.7" client="site">
 	<tag>ja-JP</tag>
 	<name>日本語 (ja-JP)</name>
-	<description>Joomla! サイト用日本語ファイルです。</description>
 	<version>3.7.3.1</version>
-	<creationDate>June 2017</creationDate>
+	<creationDate>July 2017</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>http://joomla.jp</authorUrl>
 	<copyright>Copyright (C) 2005 - 2017 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>Joomla 3 のサイト用日本語ファイルです。</description>
 	<metadata>
 		<name>Japanese (Japan)</name>
 		<nativeName>日本語 (Japan)</nativeName>
@@ -18,5 +18,6 @@
 		<locale>ja-JP.utf8, ja-JP.UTF-8, ja_JP, jpn, ja, Japanese_Japan.UTF8, japanese, jp, JP, JA</locale>
 		<firstDay>1</firstDay>
 		<weekEnd>0,6</weekEnd>
+		<calendar>gregorian</calendar>
 	</metadata>
 </metafile>
