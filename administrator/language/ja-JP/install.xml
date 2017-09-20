@@ -2,8 +2,8 @@
 <extension version="3.7" client="administrator" type="language" method="upgrade">
 	<name>日本語 (ja-JP)</name>
 	<tag>ja-JP</tag>
-	<version>3.7.5.1</version>
-	<creationDate>August 2017</creationDate>
+	<version>3.8.0.1</version>
+	<creationDate>September 2017</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>http://joomla.jp</authorUrl>
@@ -97,6 +97,8 @@
 	<filename>ja-JP.mod_popular.sys.ini</filename>
 	<filename>ja-JP.mod_quickicon.ini</filename>
 	<filename>ja-JP.mod_quickicon.sys.ini</filename>
+	<filename>ja-JP.mod_sampledata.ini</filename>
+	<filename>ja-JP.mod_sampledata.sys.ini</filename>
 	<filename>ja-JP.mod_stats_admin.ini</filename>
 	<filename>ja-JP.mod_stats_admin.sys.ini</filename>
 	<filename>ja-JP.mod_status.ini</filename>
@@ -219,6 +221,8 @@
 	<filename>ja-JP.plg_quickicon_joomlaupdate.sys.ini</filename>
 	<filename>ja-JP.plg_quickicon_phpversioncheck.ini</filename>
 	<filename>ja-JP.plg_quickicon_phpversioncheck.sys.ini</filename>
+	<filename>ja-JP.plg_sampledata_blog.ini</filename>
+	<filename>ja-JP.plg_sampledata_blog.sys.ini</filename>
 	<filename>ja-JP.plg_search_categories.ini</filename>
 	<filename>ja-JP.plg_search_categories.sys.ini</filename>
 	<filename>ja-JP.plg_search_contacts.ini</filename>
