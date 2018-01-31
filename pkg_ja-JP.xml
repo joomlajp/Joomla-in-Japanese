@@ -2,17 +2,17 @@
 <extension type="package" version="3.8" method="upgrade">
 <name>Japanese (ja-JP) Language Pack</name>
 <packagename>ja-JP</packagename>
-<version>3.8.3.1</version>
-<creationDate>December 2017</creationDate>
+<version>3.8.4.1</version>
+<creationDate>January 2018</creationDate>
 <author>JOOMLA.JP</author>
 <authorEmail>project@joomla.jp</authorEmail>
 <authorUrl>http://joomla.jp</authorUrl>
-<copyright>Copyright (C) 2005 - 2017 Joomla.jp and Open Source Matters, Inc. All rights reserved.</copyright>
+<copyright>Copyright (C) 2005 - 2018 Joomla.jp and Open Source Matters, Inc. All rights reserved.</copyright>
 <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 <url></url>
 <packager>Joomla!じゃぱん</packager>
 <packagerurl>www.joomla.jp</packagerurl>
-<description>Joomla! 3.8.3 用の日本語ランゲージパック v.3.8.3.1 です。</description>
+<description>Joomla! 3.8.4 用の日本語ランゲージパック v.3.8.4.1 です。</description>
 	<blockChildUninstall>true</blockChildUninstall>
 <files>
 	<file type="language" client="site" id="ja-JP">site_ja-JP.zip</file>
