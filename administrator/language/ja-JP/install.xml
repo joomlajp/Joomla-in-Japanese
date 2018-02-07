@@ -2,8 +2,8 @@
 <extension version="3.8" client="administrator" type="language" method="upgrade">
 	<name>日本語 (ja-JP)</name>
 	<tag>ja-JP</tag>
-	<version>3.8.4.1</version>
-	<creationDate>January 2018</creationDate>
+	<version>3.8.5.1</version>
+	<creationDate>February 2018</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>http://joomla.jp</authorUrl>
