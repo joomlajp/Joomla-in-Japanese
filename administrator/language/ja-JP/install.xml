@@ -2,8 +2,8 @@
 <extension version="3.8" client="administrator" type="language" method="upgrade">
 	<name>日本語 (ja-JP)</name>
 	<tag>ja-JP</tag>
-	<version>3.8.5.1</version>
-	<creationDate>February 2018</creationDate>
+	<version>3.8.6.1</version>
+	<creationDate>March 2018</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>http://joomla.jp</authorUrl>
@@ -259,6 +259,8 @@
 	<filename>ja-JP.plg_system_remember.sys.ini</filename>
 	<filename>ja-JP.plg_system_sef.ini</filename>
 	<filename>ja-JP.plg_system_sef.sys.ini</filename>
+	<filename>ja-JP.plg_system_sessiongc.ini</filename>
+	<filename>ja-JP.plg_system_sessiongc.sys.ini</filename>
 	<filename>ja-JP.plg_system_stats.ini</filename>
 	<filename>ja-JP.plg_system_stats.sys.ini</filename>
 	<filename>ja-JP.plg_system_updatenotification.ini</filename>
