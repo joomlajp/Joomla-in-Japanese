@@ -11,6 +11,8 @@
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>管理画面用日本語ファイルです。</description>
 	<files>
+	<filename>ja-JP.com_actionlogs.ini</filename>
+	<filename>ja-JP.com_actionlogs.sys</filename>
 	<filename>ja-JP.com_admin.ini</filename>
 	<filename>ja-JP.com_admin.sys.ini</filename>
 	<filename>ja-JP.com_ajax.ini</filename>
@@ -62,6 +64,8 @@
 	<filename>ja-JP.com_plugins.sys.ini</filename>
 	<filename>ja-JP.com_postinstall.ini</filename>
 	<filename>ja-JP.com_postinstall.sys.ini</filename>
+	<filename>ja-JP.com_privacy.ini</filename>
+	<filename>ja-JP.com_privacy.sys.ini</filename>
 	<filename>ja-JP.com_redirect.ini</filename>
 	<filename>ja-JP.com_redirect.sys.ini</filename>
 	<filename>ja-JP.com_search.ini</filename>
@@ -85,6 +89,8 @@
 	<filename>ja-JP.mod_feed.sys.ini</filename>
 	<filename>ja-JP.mod_latest.ini</filename>
 	<filename>ja-JP.mod_latest.sys.ini</filename>
+	<filename>ja-JP.mod_latestactions.ini</filename>
+	<filename>ja-JP.mod_latestactions.sys.ini</filename>
 	<filename>ja-JP.mod_logged.ini</filename>
 	<filename>ja-JP.mod_logged.sys.ini</filename>
 	<filename>ja-JP.mod_login.ini</filename>
@@ -95,6 +101,8 @@
 	<filename>ja-JP.mod_multilangstatus.sys.ini</filename>
 	<filename>ja-JP.mod_popular.ini</filename>
 	<filename>ja-JP.mod_popular.sys.ini</filename>
+	<filename>ja-JP.mod_privacy_dashboard.ini</filename>
+	<filename>ja-JP.mod_privacy_dashboard.sys.ini</filename>
 	<filename>ja-JP.mod_quickicon.ini</filename>
 	<filename>ja-JP.mod_quickicon.sys.ini</filename>
 	<filename>ja-JP.mod_sampledata.ini</filename>
@@ -111,6 +119,8 @@
 	<filename>ja-JP.mod_toolbar.sys.ini</filename>
 	<filename>ja-JP.mod_version.ini</filename>
 	<filename>ja-JP.mod_version.sys.ini</filename>
+	<filename>ja-JP.plg_actionlog_joomla.ini</filename>
+	<filename>ja-JP.plg_actionlog_joomla.sys.ini</filename>
 	<filename>ja-JP.plg_authentication_cookie.ini</filename>
 	<filename>ja-JP.plg_authentication_cookie.sys.ini</filename>
 	<filename>ja-JP.plg_authentication_gmail.ini</filename>
@@ -121,6 +131,10 @@
 	<filename>ja-JP.plg_authentication_ldap.sys.ini</filename>
 	<filename>ja-JP.plg_captcha_recaptcha.ini</filename>
 	<filename>ja-JP.plg_captcha_recaptcha.sys.ini</filename>
+	<filename>ja-JP.plg_captcha_recaptcha_invisible.ini</filename>
+	<filename>ja-JP.plg_captcha_recaptcha_invisible.sys.ini</filename>
+	<filename>ja-JP.plg_content_confirmconsent.ini</filename>
+	<filename>ja-JP.plg_content_confirmconsent.sys.ini</filename>
 	<filename>ja-JP.plg_content_contact.ini</filename>
 	<filename>ja-JP.plg_content_contact.sys.ini</filename>
 	<filename>ja-JP.plg_content_emailcloak.ini</filename>
@@ -183,6 +197,8 @@
 	<filename>ja-JP.plg_fields_media.sys.ini</filename>
 	<filename>ja-JP.plg_fields_radio.ini</filename>
 	<filename>ja-JP.plg_fields_radio.sys.ini</filename>
+	<filename>ja-JP.ja-JP.plg_fields_repeatable.ini</filename>
+	<filename>ja-JP.ja-JP.plg_fields_repeatable.sys.ini</filename>
 	<filename>ja-JP.plg_fields_sql.ini</filename>
 	<filename>ja-JP.plg_fields_sql.sys.ini</filename>
 	<filename>ja-JP.plg_fields_text.ini</filename>
@@ -215,12 +231,26 @@
 	<filename>ja-JP.plg_installer_urlinstaller.sys.ini</filename>
 	<filename>ja-JP.plg_installer_webinstaller.ini</filename>
 	<filename>ja-JP.plg_installer_webinstaller.sys.ini</filename>
+	<filename>ja-JP.plg_privacy_actionlogs.ini</filename>
+	<filename>ja-JP.plg_privacy_actionlogs.sys.ini</filename>
+	<filename>ja-JP.plg_privacy_consents.ini</filename>
+	<filename>ja-JP.plg_privacy_consents.sys.ini</filename>
+	<filename>ja-JP.plg_privacy_contact.ini</filename>
+	<filename>ja-JP.plg_privacy_contact.sys.ini</filename>
+	<filename>ja-JP.plg_privacy_content.ini</filename>
+	<filename>ja-JP.plg_privacy_content.sys.ini</filename>
+	<filename>ja-JP.plg_privacy_message.ini</filename>
+	<filename>ja-JP.plg_privacy_message.sys.ini</filename>
+	<filename>ja-JP.plg_privacy_user.ini</filename>
+	<filename>ja-JP.plg_privacy_user.sys.ini</filename>
 	<filename>ja-JP.plg_quickicon_extensionupdate.ini</filename>
 	<filename>ja-JP.plg_quickicon_extensionupdate.sys.ini</filename>
 	<filename>ja-JP.plg_quickicon_joomlaupdate.ini</filename>
 	<filename>ja-JP.plg_quickicon_joomlaupdate.sys.ini</filename>
 	<filename>ja-JP.plg_quickicon_phpversioncheck.ini</filename>
 	<filename>ja-JP.plg_quickicon_phpversioncheck.sys.ini</filename>
+	<filename>ja-JP.plg_quickicon_privacycheck.ini</filename>
+	<filename>ja-JP.plg_quickicon_privacycheck.sys.ini</filename>
 	<filename>ja-JP.plg_sampledata_blog.ini</filename>
 	<filename>ja-JP.plg_sampledata_blog.sys.ini</filename>
 	<filename>ja-JP.plg_search_categories.ini</filename>
@@ -235,6 +265,8 @@
 	<filename>ja-JP.plg_search_tags.sys.ini</filename>
 	<filename>ja-JP.plg_search_weblinks.ini</filename>
 	<filename>ja-JP.plg_search_weblinks.sys.ini</filename>
+	<filename>ja-JP.plg_system_actionlogs.ini</filename>
+	<filename>ja-JP.plg_system_actionlogs.sys.ini</filename>
 	<filename>ja-JP.plg_system_cache.ini</filename>
 	<filename>ja-JP.plg_system_cache.sys.ini</filename>
 	<filename>ja-JP.plg_system_debug.ini</filename>
@@ -251,8 +283,12 @@
 	<filename>ja-JP.plg_system_log.sys.ini</filename>
 	<filename>ja-JP.plg_system_logout.ini</filename>
 	<filename>ja-JP.plg_system_logout.sys.ini</filename>
+	<filename>ja-JP.plg_system_logrotation.ini</filename>
+	<filename>ja-JP.plg_system_logrotation.sys.ini</filename>
 	<filename>ja-JP.plg_system_p3p.ini</filename>
 	<filename>ja-JP.plg_system_p3p.sys.ini</filename>
+	<filename>ja-JP.plg_system_privacyconsent.ini</filename>
+	<filename>ja-JP.plg_system_privacyconsent.sys.ini</filename>
 	<filename>ja-JP.plg_system_redirect.ini</filename>
 	<filename>ja-JP.plg_system_redirect.sys.ini</filename>
 	<filename>ja-JP.plg_system_remember.ini</filename>
@@ -275,6 +311,8 @@
 	<filename>ja-JP.plg_user_joomla.sys.ini</filename>
 	<filename>ja-JP.plg_user_profile.ini</filename>
 	<filename>ja-JP.plg_user_profile.sys.ini</filename>
+	<filename>ja-JP.plg_user_terms.ini</filename>
+	<filename>ja-JP.plg_user_terms.sys.ini</filename>
 	<filename>ja-JP.tpl_hathor.ini</filename>
 	<filename>ja-JP.tpl_hathor.sys.ini</filename>
 	<filename>ja-JP.tpl_isis.ini</filename>
