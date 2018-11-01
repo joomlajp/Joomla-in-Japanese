@@ -197,8 +197,8 @@
 	<filename>ja-JP.plg_fields_media.sys.ini</filename>
 	<filename>ja-JP.plg_fields_radio.ini</filename>
 	<filename>ja-JP.plg_fields_radio.sys.ini</filename>
-	<filename>ja-JP.ja-JP.plg_fields_repeatable.ini</filename>
-	<filename>ja-JP.ja-JP.plg_fields_repeatable.sys.ini</filename>
+	<filename>ja-JP.plg_fields_repeatable.ini</filename>
+	<filename>ja-JP.plg_fields_repeatable.sys.ini</filename>
 	<filename>ja-JP.plg_fields_sql.ini</filename>
 	<filename>ja-JP.plg_fields_sql.sys.ini</filename>
 	<filename>ja-JP.plg_fields_text.ini</filename>
