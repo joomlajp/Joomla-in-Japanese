@@ -12,7 +12,7 @@
 	<description>管理画面用日本語ファイルです。</description>
 	<files>
 	<filename>ja-JP.com_actionlogs.ini</filename>
-	<filename>ja-JP.com_actionlogs.sys</filename>
+	<filename>ja-JP.com_actionlogs.sys.ini</filename>
 	<filename>ja-JP.com_admin.ini</filename>
 	<filename>ja-JP.com_admin.sys.ini</filename>
 	<filename>ja-JP.com_ajax.ini</filename>
