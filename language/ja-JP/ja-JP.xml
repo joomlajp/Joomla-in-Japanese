@@ -2,12 +2,12 @@
 <metafile version="3.9" client="site">
 	<tag>ja-JP</tag>
 	<name>日本語 (ja-JP)</name>
-	<version>3.9.1.1</version>
-	<creationDate>November 2018</creationDate>
+	<version>3.9.2.1</version>
+	<creationDate>January 2019</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>http://joomla.jp</authorUrl>
-	<copyright>Copyright (C) 2005 - 2018 Open Source Matters. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2005 - 2019 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>Joomla 3 のサイト用日本語ファイルです。</description>
 	<metadata>
