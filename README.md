@@ -6,7 +6,7 @@ Joomla-in-Japanese
 翻訳ポリシーについて
 --------------------------------------
 
-  http://code.google.com/p/joomlajp/wiki/Translation_Policy  
+  [Translation_Policy](../../wiki/Translation_Policy)
 上記を参照してください。
 
   この翻訳ポリシーは日本語ローカライズチームが定めたものではなく、OSM(Joomla!開発元)が定めた翻訳ポリシーを日本語に翻訳したものです。  
@@ -18,7 +18,7 @@ Joomla-in-Japanese
 翻訳活動への参加方法
 --------------------------------------
 
-  http://code.google.com/p/joomlajp/wiki/Translation_Policy     
+  [Translation_Policy](../../wiki/Translation_Policy)    
   まず最初に、上記の翻訳ポリシーを参照し、「Joomla! 翻訳チーム契約書」で提示されている19項目の条項に同意いただく必要があります。  
 
   https://github.com/joomlajp/Joomla-in-Japanese  
