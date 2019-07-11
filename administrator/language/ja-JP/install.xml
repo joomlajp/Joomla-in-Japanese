@@ -2,7 +2,7 @@
 <extension version="3.9" client="administrator" type="language" method="upgrade">
 	<name>日本語 (ja-JP)</name>
 	<tag>ja-JP</tag>
-	<version>3.9.9.1</version>
+	<version>3.9.10.1</version>
 	<creationDate>July 2019</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
