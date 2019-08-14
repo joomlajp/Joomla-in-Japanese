@@ -2,8 +2,8 @@
 <metafile version="3.9" client="site">
 	<tag>ja-JP</tag>
 	<name>日本語 (ja-JP)</name>
-	<version>3.9.10.1</version>
-	<creationDate>July 2019</creationDate>
+	<version>3.9.11.1</version>
+	<creationDate>August 2019</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>http://joomla.jp</authorUrl>
@@ -11,7 +11,7 @@
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>Joomla 3 のサイト用日本語ファイルです。</description>
 	<metadata>
-		<name>Japanese (Japan)</name>
+		<name>Japanese (ja-JP)</name>
 		<nativeName>日本語 (Japan)</nativeName>
 		<tag>ja-JP</tag>
 		<rtl>0</rtl>
