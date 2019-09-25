@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="3.9" client="administrator" type="language" method="upgrade">
-	<name>日本語 (ja-JP)</name>
+	<name>Japanese (Japan)</name>
 	<tag>ja-JP</tag>
-	<version>3.9.11.1</version>
-	<creationDate>August 2019</creationDate>
+	<version>3.9.12.1</version>
+	<creationDate>September 2019</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>http://joomla.jp</authorUrl>
