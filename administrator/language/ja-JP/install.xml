@@ -2,12 +2,12 @@
 <extension version="3.9" client="administrator" type="language" method="upgrade">
 	<name>Japanese (Japan)</name>
 	<tag>ja-JP</tag>
-	<version>3.9.14.1</version>
-	<creationDate>December 2019</creationDate>
+	<version>3.9.15.1</version>
+	<creationDate>January 2020</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>http://joomla.jp</authorUrl>
-	<copyright>Copyright (C) 2005 - 2019 Open Source Matters. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2005 - 2020 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>管理画面用日本語ファイルです。</description>
 	<files>
