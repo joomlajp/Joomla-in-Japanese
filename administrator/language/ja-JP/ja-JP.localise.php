@@ -32,11 +32,11 @@ abstract class Ja_JPLocalise
 		}
 		elseif ($count == 1)
 		{
-			return array('1');
+			return array('ONE', '1');
 		}
 		else
 		{
-			return array('MORE');
+			return array('OTHER', 'MORE');
 		}
 	}
 
