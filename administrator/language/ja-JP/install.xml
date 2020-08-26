@@ -2,8 +2,8 @@
 <extension version="3.9" client="administrator" type="language" method="upgrade">
 	<name>Japanese (Japan)</name>
 	<tag>ja-JP</tag>
-	<version>3.9.20.1</version>
-	<creationDate>July 2020</creationDate>
+	<version>3.9.21.1</version>
+	<creationDate>August 2020</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>http://joomla.jp</authorUrl>
@@ -175,6 +175,8 @@
 	<filename>ja-JP.plg_editors-xtd_pagebreak.sys.ini</filename>
 	<filename>ja-JP.plg_editors-xtd_readmore.ini</filename>
 	<filename>ja-JP.plg_editors-xtd_readmore.sys.ini</filename>
+	<filename>ja-JP.plg_editors-xtd_weblink.ini</filename>
+	<filename>ja-JP.plg_editors-xtd_weblink.sys.ini</filename>
 	<filename>ja-JP.plg_extension_joomla.ini</filename>
 	<filename>ja-JP.plg_extension_joomla.sys.ini</filename>
 	<filename>ja-JP.plg_fields_calendar.ini</filename>
@@ -301,6 +303,8 @@
 	<filename>ja-JP.plg_system_stats.sys.ini</filename>
 	<filename>ja-JP.plg_system_updatenotification.ini</filename>
 	<filename>ja-JP.plg_system_updatenotification.sys.ini</filename>
+	<filename>ja-JP.plg_system_weblinks.ini</filename>
+	<filename>ja-JP.plg_system_weblinks.sys.ini</filename>
 	<filename>ja-JP.plg_twofactorauth_totp.ini</filename>
 	<filename>ja-JP.plg_twofactorauth_totp.sys.ini</filename>
 	<filename>ja-JP.plg_twofactorauth_yubikey.ini</filename>
