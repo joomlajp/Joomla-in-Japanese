@@ -2,8 +2,8 @@
 <extension type="package" version="3.9" method="upgrade">
 <name>Japanese (ja-JP) Language Pack</name>
 <packagename>ja-JP</packagename>
-<version>3.9.22.1</version>
-<creationDate>October 2020</creationDate>
+<version>3.9.23.1</version>
+<creationDate>November 2020</creationDate>
 <author>JOOMLA.JP</author>
 <authorEmail>project@joomla.jp</authorEmail>
 <authorUrl>http://joomla.jp</authorUrl>
@@ -12,7 +12,7 @@
 <url></url>
 <packager>Joomla!じゃぱん</packager>
 <packagerurl>www.joomla.jp</packagerurl>
-<description>Joomla! 3.9.22 用の日本語ランゲージパック v.3.9.22.1 です。</description>
+<description>Joomla! 3.9.23 用の日本語ランゲージパック v.3.9.23.1 です。</description>
 	<blockChildUninstall>true</blockChildUninstall>
 <files>
 	<file type="language" client="site" id="ja-JP">site_ja-JP.zip</file>
