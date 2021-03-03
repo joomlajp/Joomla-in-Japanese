@@ -2,8 +2,8 @@
 <extension version="3.9" client="site" type="language" method="upgrade">
 	<name>Japanese (Japan)</name>
 	<tag>ja-JP</tag>
-	<version>3.9.24.1</version>
-	<creationDate>January 2021</creationDate>
+	<version>3.9.25.1</version>
+	<creationDate>February 2021</creationDate>
 	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>http://joomla.jp</authorUrl>
