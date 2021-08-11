@@ -1,24 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<extension type="package" version="3.9" method="upgrade">
-<name>Japanese (ja-JP) Language Pack</name>
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" method="upgrade">
+<name>Japanese (ja-JP)</name>
 <packagename>ja-JP</packagename>
-<version>3.10.0.1</version>
-<creationDate>August 2021</creationDate>
-<author>JOOMLA.JP</author>
+<version>4.0.0-rc5.1</version>
+<creationDate>2021年8月</creationDate>
+<author>Joomla!じゃぱん</author>
 <authorEmail>project@joomla.jp</authorEmail>
-<authorUrl>http://joomla.jp</authorUrl>
-<copyright>Copyright (C) 2005 - 2020 Joomla.jp and Open Source Matters, Inc. All rights reserved.</copyright>
-<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-<url></url>
+<authorUrl>joomla.jp</authorUrl>
+<copyright>(C) 2021 Joomla!じゃぱん</copyright>
+<license>GNU GPL バージョン2以降。LICENSE.txtを参照ください。</license>
+<url>https://github.com/joomlajp/Joomla-in-Japanese</url>
 <packager>Joomla!じゃぱん</packager>
-<packagerurl>www.joomla.jp</packagerurl>
-<description>Joomla! 日本語ランゲージパックです。</description>
+<packagerurl>joomla.jp</packagerurl>
+<description>日本語言語パックです。</description>
 <blockChildUninstall>true</blockChildUninstall>
 <files>
-<file type="language" client="site" id="ja-JP">site_ja-JP.zip</file>
-<file type="language" client="administrator" id="ja-JP">admin_ja-JP.zip</file>
+<folder type="language" client="site" id="ja-JP">site/ja-JP</folder>
+<folder type="language" client="administrator" id="ja-JP">administrator/ja-JP</folder>
+<folder type="language" client="api" id="ja-JP">api/ja-JP</folder>
 </files>
 <updateservers>
-<server type="collection" priority="1" name="Accredited Joomla! Translations">https://update.joomla.org/language/translationlist_3.xml</server>
+<server type="collection" priority="1" name="Accredited Joomla! Translations">
+https://update.joomla.org/language/translationlist_4.xml
+</server>
 </updateservers>
 </extension>
