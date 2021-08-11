@@ -23,6 +23,7 @@ Joomla-in-Japanese
 
   https://github.com/joomlajp/Joomla-in-Japanese  
   GitHubを利用してオープンな形で翻訳活動を行なっていますが、まずはSlackにご参加の上、＃翻訳 チャンネルより参加表明ください。
+  
 　https://join.slack.com/t/joomla-jp/shared_invite/zt-6pzkg5lt-N9Gavc0tEldfA0Fhe_aUEg
 
   公式な翻訳ポリシーでは、各翻訳チームのコーディネータがメンバーを専任することになっていますので、翻訳について修正のご要望等
