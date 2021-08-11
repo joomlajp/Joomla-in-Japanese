@@ -1,101 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="3.9" client="site" type="language" method="upgrade">
-	<name>Japanese (Japan)</name>
-	<tag>ja-JP</tag>
-	<version>3.9.28.1</version>
-	<creationDate>July 2021</creationDate>
-	<author>JOOMLA.JP</author>
-	<authorEmail>project@joomla.jp</authorEmail>
-	<authorUrl>http://joomla.jp</authorUrl>
-	<copyright>Copyright (C) 2005 - 2020 Joomla.jp and Open Source Matters, Inc. All rights reserved.</copyright>
-	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
-	<description>サイト用日本語ファイルです。</description>
-	<files>
-	<filename>ja-JP.com_ajax.ini</filename>
-	<filename>ja-JP.com_config.ini</filename>
-	<filename>ja-JP.com_contact.ini</filename>
-	<filename>ja-JP.com_content.ini</filename>
-	<filename>ja-JP.com_finder.ini</filename>
-	<filename>ja-JP.com_mailto.ini</filename>
-	<filename>ja-JP.com_media.ini</filename>
-	<filename>ja-JP.com_messages.ini</filename>
-	<filename>ja-JP.com_newsfeeds.ini</filename>
-	<filename>ja-JP.com_privacy.ini</filename>
-	<filename>ja-JP.com_search.ini</filename>
-	<filename>ja-JP.com_tags.ini</filename>
-	<filename>ja-JP.com_users.ini</filename>
-	<filename>ja-JP.com_weblinks.ini</filename>
-	<filename>ja-JP.com_wrapper.ini</filename>
-	<filename>ja-JP.files_joomla.sys.ini</filename>
-	<filename>ja-JP.finder_cli.ini</filename>
-	<filename>ja-JP.ini</filename>
-	<filename>ja-JP.lib_fof.ini</filename>
-	<filename>ja-JP.lib_fof.sys.ini</filename>
-	<filename>ja-JP.lib_idna_convert.sys.ini</filename>
-	<filename>ja-JP.lib_joomla.ini</filename>
-	<filename>ja-JP.lib_joomla.sys.ini</filename>
-	<filename>ja-JP.lib_phpass.sys.ini</filename>
-	<filename>ja-JP.lib_phputf8.sys.ini</filename>
-	<filename>ja-JP.lib_simplepie.sys.ini</filename>
-	<filename>ja-JP.localise.php</filename>
-	<filename>ja-JP.mod_articles_archive.ini</filename>
-	<filename>ja-JP.mod_articles_archive.sys.ini</filename>
-	<filename>ja-JP.mod_articles_categories.ini</filename>
-	<filename>ja-JP.mod_articles_categories.sys.ini</filename>
-	<filename>ja-JP.mod_articles_category.ini</filename>
-	<filename>ja-JP.mod_articles_category.sys.ini</filename>
-	<filename>ja-JP.mod_articles_latest.ini</filename>
-	<filename>ja-JP.mod_articles_latest.sys.ini</filename>
-	<filename>ja-JP.mod_articles_news.ini</filename>
-	<filename>ja-JP.mod_articles_news.sys.ini</filename>
-	<filename>ja-JP.mod_articles_popular.ini</filename>
-	<filename>ja-JP.mod_articles_popular.sys.ini</filename>
-	<filename>ja-JP.mod_banners.ini</filename>
-	<filename>ja-JP.mod_banners.sys.ini</filename>
-	<filename>ja-JP.mod_breadcrumbs.ini</filename>
-	<filename>ja-JP.mod_breadcrumbs.sys.ini</filename>
-	<filename>ja-JP.mod_custom.ini</filename>
-	<filename>ja-JP.mod_custom.sys.ini</filename>
-	<filename>ja-JP.mod_feed.ini</filename>
-	<filename>ja-JP.mod_feed.sys.ini</filename>
-	<filename>ja-JP.mod_finder.ini</filename>
-	<filename>ja-JP.mod_finder.sys.ini</filename>
-	<filename>ja-JP.mod_footer.ini</filename>
-	<filename>ja-JP.mod_footer.sys.ini</filename>
-	<filename>ja-JP.mod_languages.ini</filename>
-	<filename>ja-JP.mod_languages.sys.ini</filename>
-	<filename>ja-JP.mod_login.ini</filename>
-	<filename>ja-JP.mod_login.sys.ini</filename>
-	<filename>ja-JP.mod_menu.ini</filename>
-	<filename>ja-JP.mod_menu.sys.ini</filename>
-	<filename>ja-JP.mod_random_image.ini</filename>
-	<filename>ja-JP.mod_random_image.sys.ini</filename>
-	<filename>ja-JP.mod_related_items.ini</filename>
-	<filename>ja-JP.mod_related_items.sys.ini</filename>
-	<filename>ja-JP.mod_search.ini</filename>
-	<filename>ja-JP.mod_search.sys.ini</filename>
-	<filename>ja-JP.mod_stats.ini</filename>
-	<filename>ja-JP.mod_stats.sys.ini</filename>
-	<filename>ja-JP.mod_syndicate.ini</filename>
-	<filename>ja-JP.mod_syndicate.sys.ini</filename>
-	<filename>ja-JP.mod_tags_popular.ini</filename>
-	<filename>ja-JP.mod_tags_popular.sys.ini</filename>
-	<filename>ja-JP.mod_tags_similar.ini</filename>
-	<filename>ja-JP.mod_tags_similar.sys.ini</filename>
-	<filename>ja-JP.mod_users_latest.ini</filename>
-	<filename>ja-JP.mod_users_latest.sys.ini</filename>
-	<filename>ja-JP.mod_weblinks.ini</filename>
-	<filename>ja-JP.mod_weblinks.sys.ini</filename>
-	<filename>ja-JP.mod_whosonline.ini</filename>
-	<filename>ja-JP.mod_whosonline.sys.ini</filename>
-	<filename>ja-JP.mod_wrapper.ini</filename>
-	<filename>ja-JP.mod_wrapper.sys.ini</filename>
-	<filename>ja-JP.tpl_beez3.ini</filename>
-	<filename>ja-JP.tpl_beez3.sys.ini</filename>
-	<filename>ja-JP.tpl_protostar.ini</filename>
-	<filename>ja-JP.tpl_protostar.sys.ini</filename>
-        <folder>/</folder>
-		<filename file="meta">install.xml</filename>
-        <filename file="meta">ja-JP.xml</filename>
-	</files>
+<name>Japanese (Japan)</name>
+<tag>ja-JP</tag>
+<version>3.10.0.1</version>
+<creationDate>August 2021</creationDate>
+<author>JOOMLA.JP</author>
+<authorEmail>project@joomla.jp</authorEmail>
+<authorUrl>http://joomla.jp</authorUrl>
+<copyright>(C) 2013 Open Source Matters, Inc.</copyright>
+<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+<description>サイト用日本語ファイルです。</description>
+<files>
+<folder>/</folder>
+<filename file="meta">install.xml</filename>
+<filename file="meta">ja-JP.xml</filename>
+</files>
+<params />
 </extension>
