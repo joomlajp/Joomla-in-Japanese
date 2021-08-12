@@ -2,7 +2,7 @@
 <extension client="api" type="language" method="upgrade">
 <name>Japanese (ja-JP)</name>
 <tag>ja-JP</tag>
-<version>4.0.0-rc5.1</version>
+<version>4.0.0-rc6.1</version>
 <creationDate>2021年8月</creationDate>
 <author>Joomla!じゃぱん</author>
 <authorEmail>project@joomla.jp</authorEmail>
