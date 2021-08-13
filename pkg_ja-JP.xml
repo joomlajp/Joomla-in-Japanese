@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<extension type="package" version="3.9" method="upgrade">
+<extension type="package" version="3.10" method="upgrade">
 <name>Japanese (ja-JP) Language Pack</name>
 <packagename>ja-JP</packagename>
 <version>3.10.0.1</version>
