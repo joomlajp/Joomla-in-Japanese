@@ -8,7 +8,7 @@
 <authorEmail>project@joomla.jp</authorEmail>
 <authorUrl>joomla.jp</authorUrl>
 <copyright>(C) 2021 Joomla!じゃぱん</copyright>
-<license>GNU GPL バージョン2以降。LICENSE.txtを参照ください。</license>
+<license>https://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 <url>https://github.com/joomlajp/Joomla-in-Japanese</url>
 <packager>Joomla!じゃぱん</packager>
 <packagerurl>joomla.jp</packagerurl>
