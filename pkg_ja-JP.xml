@@ -2,7 +2,7 @@
 <extension type="package" method="upgrade">
 <name>Japanese (ja-JP)</name>
 <packagename>ja-JP</packagename>
-<version>4.0.0-rc6.1</version>
+<version>4.0.0.1</version>
 <creationDate>2021年8月</creationDate>
 <author>Joomla!じゃぱん</author>
 <authorEmail>project@joomla.jp</authorEmail>
@@ -15,9 +15,9 @@
 <description>日本語言語パックです。</description>
 <blockChildUninstall>true</blockChildUninstall>
 <files>
-<folder type="language" client="site" id="ja-JP">site/ja-JP</folder>
-<folder type="language" client="administrator" id="ja-JP">administrator/ja-JP</folder>
-<folder type="language" client="api" id="ja-JP">api/ja-JP</folder>
+<folder type="language" client="site" id="ja-JP">language/ja-JP</folder>
+<folder type="language" client="administrator" id="ja-JP">administrator/language/ja-JP</folder>
+<folder type="language" client="api" id="ja-JP">api/language/ja-JP</folder>
 </files>
 <updateservers>
 <server type="collection" priority="1" name="Accredited Joomla! Translations">

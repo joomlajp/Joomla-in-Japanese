@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<metafile client="site">
+<metafile client="api">
 <name>Japanese (ja-JP)</name>
-<version>4.0.0-rc6.1</version>
+<version>4.0.0.1</version>
 <creationDate>2021年8月</creationDate>
 <author>Joomla!じゃぱん</author>
 <authorEmail>project@joomla.jp</authorEmail>
 <authorUrl>joomla.jp</authorUrl>
 <copyright>(C) 2021 Joomla!じゃぱん</copyright>
 <license>GNU GPL バージョン2以降。LICENSE.txtを参照ください。</license>
-<description>サイト用日本語ファイルです。</description>
+<description>api用日本語ファイルです。</description>
 <metadata>
-<name>Japanese (ja-JP)</name>
+<name>Japanese (Japan)</name>
 <nativeName>日本語 (Japan)</nativeName>
 <tag>ja-JP</tag>
 <rtl>0</rtl>
