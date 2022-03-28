@@ -796,7 +796,7 @@ INSERT INTO `#__newsfeeds` (`catid`, `id`, `name`, `alias`, `link`, `published`,
 INSERT INTO `#__template_styles` (`id`, `template`, `client_id`, `home`, `title`, `params`) VALUES
 (4, 'beez3', 0, '0', 'Beez3 - フルーツショップ', '{"wrapperSmall":53,"wrapperLarge":72,"logo":"","sitetitle":"フルーツショップ","sitedescription":"もぎたてのフルーツをあなたに","navposition":"left","bootstrap":"","templatecolor":"red","headerImage":"","backgroundcolor":"#eee"}'),
 (5, 'hathor', 1, '0', 'Hathor - 標準', '{"showSiteName":"0","colourChoice":"","boldText":"0"}'),
-(7, 'protostar', 0, '1', 'protostar - 標準', '{"templateColor":"","logoFile":"","googleFont":"1","googleFontName":"Open+Sans","fluidContainer":"0"}'),
+(7, 'protostar', 0, '1', 'protostar - 標準', '{"templateColor":"","logoFile":"","googleFont":"0","googleFontName":"Open+Sans","fluidContainer":"0"}'),
 (8, 'isis', 1, '1', 'isis - 標準', '{"templateColor":"","logoFile":""}'),
 (9, 'beez3', 0, '0', 'Beez3 - 標準', '{"wrapperSmall":53,"wrapperLarge":72,"logo":"","sitetitle":"Joomla!","sitedescription":"Open Source Content Management","navposition":"left","bootstrap":"","templatecolor":"personal","headerImage":"","backgroundcolor":"#eee"}');
 
