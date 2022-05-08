@@ -812,7 +812,7 @@ INSERT INTO `#__usergroups` (`id`, `parent_id`, `lft`, `rgt`, `title`) VALUES
 (5, 4, 11, 12, '公開担当'),
 (6, 1, 4, 7, 'サイト管理者'),
 (7, 6, 5, 6, 'システム管理者'),
-(8, 1, 20, 21, 'スーパーユーザ'),
+(8, 1, 20, 21, 'スーパーユーザー'),
 (10, 3, 14, 15, 'ショップサプライヤー（例）'),
 (12, 2, 17, 18, '顧客グループ（例）'),
 (13, 1, 2, 3, 'ゲスト');
@@ -827,7 +827,7 @@ INSERT INTO `#__viewlevels` (`id`, `title`, `ordering`, `rules`) VALUES
 (3, 'スペシャル', 4, '[6,3,8]'),
 (4, '顧客（例）', 3, '[6,3,12]'),
 (5, 'ゲスト', 1, '[13]'),
-(6, 'スーパーユーザ', 5, '[8]');
+(6, 'スーパーユーザー', 5, '[8]');
 
 UPDATE `#__extensions` SET `params`='{"allowUserRegistration":"0","new_usertype":"2","guest_usergroup":"13","sendpassword":"0","useractivation":"2","mail_to_admin":"0","captcha":"","frontend_userparams":"1","site_language":"0","change_login_name":"0","reset_count":"10","reset_time":"1","mailSubjectPrefix":"","mailBodySuffix":"","save_history":"1","history_limit":5}' WHERE extension_id=25;
 
